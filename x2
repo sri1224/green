@@ -1,0 +1,9 @@
+ new file for second tag
+
+commands of tag
+git tag: will list all tags
+git tag <tagname>: will create new tag
+git checkout <tagname>: used to switch to specific tag
+git push --delete origin <tagname>: it will delete tag from rempte repo
+git tag -d <tagname>: it will delete tag in local repo
+git push origin/url <tagname>: it will push tag to remote repo
